@@ -22,3 +22,29 @@
     
     
 }
+
+body{
+    background-color: #b4f2e1;
+    font-family: "josefin sans", sans-serif;
+}
+
+.div_tchange{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -30px;
+
+}
+
+.HelloSir {
+    padding: 20px;
+    background-color: #ffe9c5;
+    color: #fa9191;
+    border-radius: 20px;
+}
+
+span{
+    color: #eb6383;
+}
