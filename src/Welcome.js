@@ -2,7 +2,7 @@ import React from "react";
 import './index.css';
 
 function Welcome() {
-    let currDate = new Date(2024, 2, 5, 17);
+    let currDate = new Date(2024, 2, 5, 5);
     currDate = currDate.getHours();
     let greeting = " ";
     let cssStyle = {};

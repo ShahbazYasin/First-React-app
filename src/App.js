@@ -12,15 +12,15 @@ function App() {
 
     return (
         <>
-            {/* <Heading />
+            <Heading />
             <Para />
             <OrderList />
-            <Welcome /> */}
+            <Welcome />
 
-            {/* <h1>Sum of two numbers is {add(40,4)} </h1>
+            <h1>Sum of two numbers is {add(40,4)} </h1>
            <h1>Sub of two numbers is {sub(40,4)} </h1>
            <h1>Mul of two numbers is {mul(40,4)} </h1>
-           <h1>Div of two numbers is {div(40,3)} </h1> */}
+           <h1>Div of two numbers is {div(40,3)} </h1>
             <div className="main-div">
                 <Card 
                 Imagesrc="https://www.visasforfuture.com/wp-content/uploads/2023/11/IMG_4344.jpg" 
